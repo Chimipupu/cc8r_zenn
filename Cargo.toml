@@ -1,0 +1,7 @@
+[package]
+name = "chimi_cpu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fmt = "0.1.0"
