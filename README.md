@@ -1,8 +1,8 @@
 # CC8R（ちみ's CPU 8bit RISC）
 Zennで記載した内容のRust実装です！
-テストで **`(5+3)x2 = 8`をCPUで計算** させています🥳
+テストで **`(5+3)x2 = 16`をCPUで計算** させています🥳
 
-[Zenn「RustでCPUを自作して動くまで📝」]
+🔗Zenn「RustでCPUを自作して動くまで📝」
 - https://zenn.dev/chimipupu/articles/e0af6451e0cab9
 
 
