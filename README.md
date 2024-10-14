@@ -5,6 +5,8 @@ Zennで記載した内容のRust実装です！
 🔗Zenn「RustでCPUを自作して動くまで📝」
 - https://zenn.dev/chimipupu/articles/e0af6451e0cab9
 
+🔗C++での実装
+- https://github.com/Chimipupu/cc8r_zenn_cpp
 
 ## 特徴
 - アーキテクチャ ... 8bit
